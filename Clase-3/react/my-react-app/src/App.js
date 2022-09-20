@@ -1,31 +1,17 @@
 
 import './App.css';
-import styled from 'styled-components';
-import NavBar from './components/NavBar';
+import logo from './logo.svg';
 
 function App() {
 
-  const Title = styled.h1`
-  font-size: 1.5em;
-  text-align: center;
-  color: palevioletred;
-`;
-
-  const styles = 
-  {
-    red:{
-      color: "red"
-    },
-    blue: {
-      color: "blue"
-    }
-  }
-  
-  const color = false
-
   return (
     <div className="App">
-      <NavBar></NavBar>
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Hola desde React
+        </p>
+      </header>
     </div>
   );
 }

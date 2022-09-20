@@ -26,3 +26,10 @@
 - Desarrollar código en JSX
 
 ### EJERCICIO Agregar estilos a coponente de JSX
+
+# CLase 4 Componentes 1
+
+- Entender el uso de los componentes
+- Conocer patrones de componentes
+
+### EJERCICIO Crear CartWidget y ItemListContainer
