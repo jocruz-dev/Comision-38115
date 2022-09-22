@@ -1,16 +1,14 @@
 
 import './App.css';
 import logo from './logo.svg';
+import Class from '../../../../Clase-5/react/my-react-app/src/components/Class';
 
 function App() {
 
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hola desde React
-        </p>
+        <Class/>
       </header>
     </div>
   );
