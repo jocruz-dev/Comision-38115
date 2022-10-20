@@ -1,0 +1,19 @@
+.purple {
+  background-color: purple;
+}
+
+.light{
+  background-color: white;
+}
+
+.dark {
+  background-color: black;
+}
+
+.text-light{
+  color: black;
+}
+
+.text-dark{
+  color: white;
+}

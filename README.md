@@ -21,6 +21,8 @@
 
 # CLase 3 JSX y Webpack
 
+``` codigo ```
+
 - Entender el sugar sintax
 - Conocer rol de webpack
 - Desarrollar código en JSX
@@ -33,3 +35,5 @@
 - Conocer patrones de componentes
 
 ### EJERCICIO Crear CartWidget y ItemListContainer
+
+

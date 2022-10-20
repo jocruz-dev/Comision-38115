@@ -1,0 +1,14 @@
+.list-container {
+    display: flex;
+    max-width: 100%;
+    flex-wrap: wrap;
+    margin-left: 7%;
+}
+
+.item-list {
+    margin: 5%;
+    display: flex;
+    border: solid gray 10px;
+    border-radius: 10px;
+    flex-direction: column;
+}
